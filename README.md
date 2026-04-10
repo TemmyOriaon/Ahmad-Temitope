@@ -1,17 +1,14 @@
 # Hello, I'm AHMAD Temitope
 <a href="https://www.linkedin.com/in/ahmad-temitope-15443888/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+I am a Security Analyst who builds bridges between offensive tactics, defensive engineering, and business growth. I specialize in architecting end-to-end SOC pipelines, from designing multi-tier enterprise environments to automating response workflows.
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Driven by a passion for Blue Team operations, I am seeking to join a forward-thinking Security Operations Center as an Analyst. I aim to leverage my experience in architecting secure environments to protect corporate assets and bolster organizational resilience through proactive threat detection.
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -23,26 +20,43 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-### Network
+## Investigation & Analysis
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Any.Run-00D7FF?&style=for-the-badge&logo=Any.Run&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VirusTotal-3949AB?&style=for-the-badge&logo=VirusTotal&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CyberChef-FF6600?&style=for-the-badge&logo=CyberChef&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PEStudio-808080?&style=for-the-badge&logo=Windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PhishTool-000000?&style=for-the-badge&logo=Gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Joe_Sandbox-FFCE00?&style=for-the-badge&logo=SecurityScorecard&logoColor=black" />
 </div>
 
-### Endpoint
+## Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Snort-EF3B2D?&style=for-the-badge&logo=Snort&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TCPDump-000000?&style=for-the-badge&logo=Linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TShark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+</div>
+
+## SOAR
+<div>
+    <img src="https://img.shields.io/badge/-Shuffle-FF6600?&style=for-the-badge&logo=Shuffle&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Tines-212121?&style=for-the-badge&logo=Tines&logoColor=white" />
+</div>
+
+## Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LimaCharlie-32CD32?&style=for-the-badge&logo=LimaCharlie&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Sysmon-000000?&style=for-the-badge&logo=Windows&logoColor=white" />
 </div>
 
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-00A9E0?&style=for-the-badge&logo=Wazuh&logoColor=white" />
 </div>
 
 ## Certifications

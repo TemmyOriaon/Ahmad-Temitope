@@ -78,5 +78,7 @@ Driven by a passion for Blue Team operations, I am seeking to join a forward-thi
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- <a href="https://github.com/TemmyOriaon/SOC-Automation-Lab">SOC Automation Lab</a>
+- <a href="https://github.com/TemmyOriaon/Network-Traffic-IDS-IPS-Lab">Network Traffic IDS/IPS Lab</a>
+- <a href="https://github.com/TemmyOriaon/Detection-Lab_Active_Directory_Splunk_Sysmon_Telemetry">Active Directory & Telementry Lab</a>
+- <a href="https://github.com/TemmyOriaon/Phishing-Header-Analysis-Lab">Phishing & Header Analysis Lab</a>

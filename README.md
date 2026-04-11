@@ -12,7 +12,7 @@ Driven by a passion for Blue Team operations, I am seeking to join a forward-thi
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/TemmyOriaon/SOC_Automation_Project_Shuffle_Wazuh_TheHive?tab=readme-ov-file">SIEM Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|

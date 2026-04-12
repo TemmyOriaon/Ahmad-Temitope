@@ -26,13 +26,13 @@ I'm a Cybersecurity professional specializing in the end-to-end management of th
 | Projects                                         | Associated folder         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis            | <a href="https://github.com/TemmyOriaon/SOC-Automation-Lab">SOC Automation Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/TemmyOriaon/Network-Traffic-IDS-IPS-Lab">Network Traffic IDS/IPS Lab</a>|
 | Security Automation (Shuffle SOAR)              | <a href="https://github.com/TemmyOriaon/SOC-Automation-Lab">SOC Automation Lab</a>|
-| Active Directory & Identity Security            | <a href="https://github.com/TemmyOriaon/Detection-Lab_Active_Directory_Splunk_Sysmon_Telemetry">Active Directory & Telementry Lab</a>|
 | Case Management (TheHive)                       | <a href="https://github.com/TemmyOriaon/SOC-Automation-Lab">SOC Automation Lab</a>|
-| Threat Intelligence & API Integration           | <a href="https://github.com/TemmyOriaon/Phishing-Header-Analysis-Lab">Phishing & Header Analysis Lab</a>|
-| IDS/IPS Rule Engineering (Snort 3)              | <a href="https://github.com/TemmyOriaon/Network-Traffic-IDS-IPS-Lab">Network Traffic IDS/IPS Lab</a>|
+| Active Directory & Identity Security            | <a href="https://github.com/TemmyOriaon/Detection-Lab_Active_Directory_Splunk_Sysmon_Telemetry">Active Directory & Telementry Lab</a>|
 | Endpoint Telemetry (Sysmon & Splunk)            | <a href="https://github.com/TemmyOriaon/Detection-Lab_Active_Directory_Splunk_Sysmon_Telemetry">Active Directory & Telementry Lab</a>|
+| Threat Intelligence & API Integration           | <a href="https://github.com/TemmyOriaon/Phishing-Header-Analysis-Lab">Phishing & Header Analysis Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/TemmyOriaon/Network-Traffic-IDS-IPS-Lab">Network Traffic IDS/IPS Lab</a>|
+| IDS/IPS Rule Engineering (Snort 3)              | <a href="https://github.com/TemmyOriaon/Network-Traffic-IDS-IPS-Lab">Network Traffic IDS/IPS Lab</a>|
 
 ---
 

@@ -11,16 +11,19 @@ Security Operations Engineer | SOC Analyst
     <img src="https://img.shields.io/badge/-IBM_Cybersecurity_Analyst-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
 </div>
 
-I am a Security Analyst who builds bridges between offensive tactics, defensive engineering, and business growth. I specialize in architecting end-to-end SOC pipelines, from designing multi-tier enterprise environments to automating response workflows.
+---
 
 
-## Objective
+## 💎Professional Summary
 
-Driven by a passion for Blue Team operations, I am seeking to join a forward-thinking Security Operations Center as an Analyst. I aim to leverage my experience in architecting secure environments to protect corporate assets and bolster business growth by aligning advanced threat detection with business objectives, ensuring critical corporate assets remain secure against evolving cyber risks while supporting uninterrupted service delivery.
+I'm a Cybersecurity professional specializing in the end-to-end management of the threat lifecycle, from initial detection engineering to automated incident response. I leverage hands-on experience in architecting SIEM/SOAR pipelines and IDS/IPS rule-writing to transform raw telemetry into high-fidelity actionable intelligence. My focus is on driving organizational resilience by ensuring technical defenses directly support uninterrupted business service delivery and strategic growth.
+
+---
+
+## 📁Project Folder
 
 
-
-| Skill                                         | Associated Project         |
+| Projects                                         | Associated folder         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis            | <a href="https://github.com/TemmyOriaon/SOC-Automation-Lab">SOC Automation Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/TemmyOriaon/Network-Traffic-IDS-IPS-Lab">Network Traffic IDS/IPS Lab</a>|
@@ -31,57 +34,27 @@ Driven by a passion for Blue Team operations, I am seeking to join a forward-thi
 | IDS/IPS Rule Engineering (Snort 3)              | <a href="https://github.com/TemmyOriaon/Network-Traffic-IDS-IPS-Lab">Network Traffic IDS/IPS Lab</a>|
 | Endpoint Telemetry (Sysmon & Splunk)            | <a href="https://github.com/TemmyOriaon/Detection-Lab_Active_Directory_Splunk_Sysmon_Telemetry">Active Directory & Telementry Lab</a>|
 
+---
 
-## Tools
+### 🛠️ Technical Ecosystem & Tooling
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wazuh-00A9E0?&style=for-the-badge&logo=Wazuh&logoColor=white" />
-</div>
+**🛡️ Detection & Response (SOC)**
+* **SIEM/XDR:** Microsoft XDR, Splunk Enterprise, Wazuh, Limacharlie (ongoing)
+* **SOAR/Automation:** Shuffle, Python-based API integrations, Tines (ongoing)
+* **Case Management:** TheHive, Jira Service Management (ongoing)
 
-## SOAR
-<div>
-    <img src="https://img.shields.io/badge/-Shuffle-FF6600?&style=for-the-badge&logo=Shuffle&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Tines-212121?&style=for-the-badge&logo=Tines&logoColor=white" />
-</div>
+**🌐 Network & Infrastructure Security**
+* **Traffic Analysis:** Snort 3 (IDS/IPS), Wireshark, Zeek (Bro), TCPDump, Tshark
+* **Identity & Access:** Active Directory, Microsoft Entra ID (M365 E5)
+* **Cloud & Virtualization:** Kubernetes (LFS250), VMware, Kali Linux
 
-## Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-LimaCharlie-32CD32?&style=for-the-badge&logo=LimaCharlie&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Sysmon-000000?&style=for-the-badge&logo=Windows&logoColor=white" />
-</div>
-
-## Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Snort-EF3B2D?&style=for-the-badge&logo=Snort&logoColor=white" />
-    <img src="https://img.shields.io/badge/-TCPDump-000000?&style=for-the-badge&logo=Linux&logoColor=white" />
-    <img src="https://img.shields.io/badge/-TShark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-</div>
-
-## Investigation & Analysis
-<div>
-    <img src="https://img.shields.io/badge/-Any.Run-00D7FF?&style=for-the-badge&logo=Any.Run&logoColor=white" />
-    <img src="https://img.shields.io/badge/-VirusTotal-3949AB?&style=for-the-badge&logo=VirusTotal&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CyberChef-FF6600?&style=for-the-badge&logo=CyberChef&logoColor=white" />
-    <img src="https://img.shields.io/badge/-PEStudio-808080?&style=for-the-badge&logo=Windows&logoColor=white" />
-    <img src="https://img.shields.io/badge/-PhishTool-000000?&style=for-the-badge&logo=Gmail&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Joe_Sandbox-FFCE00?&style=for-the-badge&logo=SecurityScorecard&logoColor=black" />
-</div>
+**🔍 Threat Intelligence & Engineering**
+* **Query Languages:** **KQL (Kusto Query Language)**, SQL
+* **Offensive Security:** Vulnerability Assessment, Red Team Operations
+* **Digital Forensics:** Email Header Analysis, Malware Triage, Phishing Forensics
 
 
-
-
-## Projects
-- <a href="https://github.com/TemmyOriaon/SOC-Automation-Lab">SOC Automation Lab</a>
-- <a href="https://github.com/TemmyOriaon/Network-Traffic-IDS-IPS-Lab">Network Traffic IDS/IPS Lab</a>
-- <a href="https://github.com/TemmyOriaon/Detection-Lab_Active_Directory_Splunk_Sysmon_Telemetry">Active Directory & Telementry Lab</a>
-- <a href="https://github.com/TemmyOriaon/Phishing-Header-Analysis-Lab">Phishing & Header Analysis Lab</a>
-
-### 📫 Let's Connect
-- **LinkedIn:** [linkedin.com/in/yourprofile](www.linkedin.com/in/ahmad-temitope)
-- **Email:** yourname@example.com
-- **Portfolio:** [YourWebsite.com](https://yourwebsite.com)
+### 📫 Contact Information
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ahmad-temitope)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oriaonm@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Oriaonm)

@@ -1,5 +1,15 @@
-# Hello, I'm AHMAD Temitope
-<a href="https://www.linkedin.com/in/ahmad-temitope-15443888/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hello, I'm Ahmad Temitope
+
+Security Operations Engineer | SOC Analyst
+
+<div>
+    <img src="https://img.shields.io/badge/-ISC2-3C3C3C?style=for-the-badge&logo=isc2&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CompTIA_Sec%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_SOC-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CyberOps_Associate-005A9C?style=for-the-badge&logo=cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ISO_27001_Mastermind-008080?style=for-the-badge&logo=target&logoColor=white" />
+    <img src="https://img.shields.io/badge/-IBM_Cybersecurity_Analyst-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
+</div>
 
 I am a Security Analyst who builds bridges between offensive tactics, defensive engineering, and business growth. I specialize in architecting end-to-end SOC pipelines, from designing multi-tier enterprise environments to automating response workflows.
 
@@ -63,22 +73,15 @@ Driven by a passion for Blue Team operations, I am seeking to join a forward-thi
 </div>
 
 
-## Certifications
-<div>
-    <img src="https://img.shields.io/badge/-CompTIA_Sec%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white" />
-    <img src="https://img.shields.io/badge/-SC--200-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-SC--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft_SOC-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CyberOps_Associate-005A9C?style=for-the-badge&logo=cisco&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Ethical_Hacker-005A9C?style=for-the-badge&logo=cisco&logoColor=white" />
-    <img src="https://img.shields.io/badge/-ISC2-3C3C3C?style=for-the-badge&logo=isc2&logoColor=white" />
-    <img src="https://img.shields.io/badge/-ISO_27001_Mastermind-008080?style=for-the-badge&logo=target&logoColor=white" />
-    <img src="https://img.shields.io/badge/-IBM_Cybersecurity_Analyst-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
-    <img src="https://img.shields.io/badge/-LFS250_Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-</div>
+
 
 ## Projects
 - <a href="https://github.com/TemmyOriaon/SOC-Automation-Lab">SOC Automation Lab</a>
 - <a href="https://github.com/TemmyOriaon/Network-Traffic-IDS-IPS-Lab">Network Traffic IDS/IPS Lab</a>
 - <a href="https://github.com/TemmyOriaon/Detection-Lab_Active_Directory_Splunk_Sysmon_Telemetry">Active Directory & Telementry Lab</a>
 - <a href="https://github.com/TemmyOriaon/Phishing-Header-Analysis-Lab">Phishing & Header Analysis Lab</a>
+
+### 📫 Let's Connect
+- **LinkedIn:** [linkedin.com/in/yourprofile](www.linkedin.com/in/ahmad-temitope)
+- **Email:** yourname@example.com
+- **Portfolio:** [YourWebsite.com](https://yourwebsite.com)

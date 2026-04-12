@@ -6,7 +6,7 @@ I am a Security Analyst who builds bridges between offensive tactics, defensive 
 
 ## Objective
 
-Driven by a passion for Blue Team operations, I am seeking to join a forward-thinking Security Operations Center as an Analyst. I aim to leverage my experience in architecting secure environments to protect corporate assets and bolster organizational resilience through proactive threat detection.
+Driven by a passion for Blue Team operations, I am seeking to join a forward-thinking Security Operations Center as an Analyst. I aim to leverage my experience in architecting secure environments to protect corporate assets and bolster business growth by aligning advanced threat detection with business objectives, ensuring critical corporate assets remain secure against evolving cyber risks while supporting uninterrupted service delivery.
 
 
 
